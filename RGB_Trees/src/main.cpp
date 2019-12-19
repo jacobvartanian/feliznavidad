@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <tlc_fades.h>
 
 void setup() {
   // put your setup code here, to run once:
